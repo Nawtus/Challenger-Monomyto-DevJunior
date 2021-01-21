@@ -1,1 +1,1 @@
-Projeto teste para vaga de programador Junior na empresa Monomyto
+Projeto teste para vaga de programador Junior na empresa Monomyto.
