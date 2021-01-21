@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59fdae730cee4a54bbe4fb761961625c, type: 3}
+  m_Name: Strong Bot
+  m_EditorClassIdentifier: 
+  botModel: {fileID: 1756301658777211338, guid: 97caf63f7ff7a324c93f59877e70ca1c, type: 3}
+  botColor: {r: 0.6415094, g: 0, b: 0.49706954, a: 1}
+  botHealth: 10
+  botSpeed: 2
+  botValue: 40
+  gunType: {fileID: 6730077270453913568, guid: fdbdcb9abdcff314bac269451e67c045, type: 3}
+  gunColor: {r: 0.6431373, g: 0, b: 0.49803922, a: 1}
+  bulletType: {fileID: 3540252502904981022, guid: 25847c82bb560a74cb9a9df0eb6a56f9, type: 3}
+  bulletDamage: 4
+  bulletSpeed: 2

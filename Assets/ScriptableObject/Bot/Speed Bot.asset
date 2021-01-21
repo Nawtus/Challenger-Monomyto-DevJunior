@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59fdae730cee4a54bbe4fb761961625c, type: 3}
+  m_Name: Speed Bot
+  m_EditorClassIdentifier: 
+  botModel: {fileID: 8168788688702458467, guid: addf6d3da1027df428c71e8b80dce509, type: 3}
+  botColor: {r: 0.5943396, g: 0, b: 0, a: 1}
+  botHealth: 5
+  botSpeed: 3
+  botValue: 20
+  gunType: {fileID: 6730077270453913568, guid: 2397f276a3b36f44398ec14008ef3de5, type: 3}
+  gunColor: {r: 0.59607846, g: 0, b: 0, a: 1}
+  bulletType: {fileID: 2329577535781980447, guid: c1884d9b5891b114ab72499e00ac8a28, type: 3}
+  bulletDamage: 2
+  bulletSpeed: 4
