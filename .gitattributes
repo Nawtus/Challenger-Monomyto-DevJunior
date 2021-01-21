@@ -2,3 +2,4 @@
 * text=auto
 *.cs diff=csharp
 *.js linguist-detectable=false
+*.aspx linguist-detectable=false
